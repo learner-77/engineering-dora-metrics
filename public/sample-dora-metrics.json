@@ -1,0 +1,160 @@
+{
+  "teams": [
+    {
+      "name": "Backend Services",
+      "description": "Core API and services team",
+      "metrics": [
+        {
+          "metric_type": "deployment_frequency",
+          "value": 12,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "lead_time",
+          "value": 1.2,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "change_failure_rate",
+          "value": 2.3,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "mttr",
+          "value": 48,
+          "period": "2024-04-09"
+        }
+      ]
+    },
+    {
+      "name": "Frontend Web",
+      "description": "Web UI and client team",
+      "metrics": [
+        {
+          "metric_type": "deployment_frequency",
+          "value": 8,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "lead_time",
+          "value": 2.5,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "change_failure_rate",
+          "value": 5.2,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "mttr",
+          "value": 92,
+          "period": "2024-04-09"
+        }
+      ]
+    },
+    {
+      "name": "Platform",
+      "description": "Infrastructure and platform team",
+      "metrics": [
+        {
+          "metric_type": "deployment_frequency",
+          "value": 15,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "lead_time",
+          "value": 0.6,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "change_failure_rate",
+          "value": 1.1,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "mttr",
+          "value": 31,
+          "period": "2024-04-09"
+        }
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "description": "Data pipeline and analytics team",
+      "metrics": [
+        {
+          "metric_type": "deployment_frequency",
+          "value": 4,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "lead_time",
+          "value": 5.2,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "change_failure_rate",
+          "value": 12.5,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "mttr",
+          "value": 245,
+          "period": "2024-04-09"
+        }
+      ]
+    },
+    {
+      "name": "DevOps",
+      "description": "CI/CD and deployment team",
+      "metrics": [
+        {
+          "metric_type": "deployment_frequency",
+          "value": 20,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "lead_time",
+          "value": 0.4,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "change_failure_rate",
+          "value": 0.5,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "mttr",
+          "value": 16,
+          "period": "2024-04-09"
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "description": "Security and compliance team",
+      "metrics": [
+        {
+          "metric_type": "deployment_frequency",
+          "value": 2,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "lead_time",
+          "value": 16,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "change_failure_rate",
+          "value": 25.5,
+          "period": "2024-04-09"
+        },
+        {
+          "metric_type": "mttr",
+          "value": 500,
+          "period": "2024-04-09"
+        }
+      ]
+    }
+  ]
+}
