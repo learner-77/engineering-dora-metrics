@@ -6,4 +6,8 @@ Ceated using bolt.new free tier ,cloud hosted database and container . Tech: typ
 
 ## Impementation
 I always follow the following principles for any AI tools
-Identify requirement(Human) -> Plan(use AI agent with specs) -> Refine/Review(Human+ AI) -> Design (Human) -> Implement Design (AI + Human) - Review/Refine (Human + AI) -> Develop (AI)-> Review/Refine(Human+AI)-> Validate (Human) -> Repeat (Human+AI) till AC is met
+Identify requirement(Human) -> Plan(use AI agent with specs) -> Refine/Review(Human+ AI) -> Design (Human) -> Implement Design (AI + Human) - Review/Refine (Human + AI) -> Develop (AI)-> Review/Refine(Human+AI)-> Validate (Human) -> Repeat (Human+AI) till AC is met. 
+
+Refine/Review - includes testing - across all the steps starting from requirements
+
+##Points
