@@ -11,3 +11,8 @@ Identify requirement(Human) -> Plan(use AI agent with specs) -> Refine/Review(Hu
 Refine/Review - includes testing - across all the steps starting from requirements
 
 ##Points
+Bolt new is like Github codespaces, Visual Studio on the cloud with fewd differences like lack of extensions, custom agents but useful for rapid protos
+Database : use mcp to store in your own tenant
+
+## Sample 
+<img width="1294" height="692" alt="image" src="https://github.com/user-attachments/assets/0bf52cd3-80d2-4ed6-bf7e-c6167b2f56a0" />
